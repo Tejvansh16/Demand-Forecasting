@@ -1,4 +1,3 @@
-# Demand-Forecasting
 # 🛒 Demand Forecasting for a Retail Store  
 
 Predicting product demand using Machine Learning to optimize inventory management and reduce stock-outs.  
@@ -16,7 +15,7 @@ This project aims to develop a demand forecasting model for a retail store using
 ---
 
 ## 🗂 Dataset  
-- **Source:** Store-level transactional data  
+- **Link:** [Store-level transactional data](https://www.kaggle.com/datasets/aswathrao/demand-forecasting?select=train_0irEZ2H.csv)  
 - **Size:** 150,150 records  
 - **Features:**  
   - `store_id` - Unique ID of the store  
